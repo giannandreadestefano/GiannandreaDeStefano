@@ -7,7 +7,7 @@ I am interested in the intersection between financial markets, econometrics and 
 ## Selected Research Projects
 
 ### Pricing Efficiency in Binary Prediction Markets
-MSc thesis project investigating BTC prediction-market efficiency by comparing Polymarket and Kalshi event probabilities with derivatives-implied benchmarks from Deribit.
+MSc thesis project (in progress) investigating BTC prediction-market efficiency by comparing Polymarket and Kalshi event probabilities with derivatives-implied benchmarks from Deribit.
 
 **Tools & methods:** Python, REST APIs, market data processing, maturity matching, mispricing measurement, OLS regressions.
 
