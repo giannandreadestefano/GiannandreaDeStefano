@@ -8,7 +8,7 @@ I am interested in the intersection between financial markets, econometrics and 
 
 ## Selected Research Projects
 
-### Quant Risk Lab — Multi-Asset Market Risk Engine
+### [Quant Risk Lab — Multi-Asset Market Risk Engine](https://github.com/giannandreadestefano/quant-risk-lab)
 
 Python-based market risk engine covering equities, Treasuries, credit, gold and crypto.
 
@@ -18,7 +18,7 @@ The project includes portfolio construction, volatility forecasting, VaR and Exp
 
 ---
 
-### Pricing Efficiency in Binary Prediction Markets
+### [Pricing Efficiency in Binary Prediction Markets](https://github.com/giannandreadestefano/btc-prediction-market-efficiency)
 
 MSc thesis project investigating BTC prediction-market efficiency by comparing Polymarket and Kalshi event probabilities with derivatives-implied benchmarks from Deribit.
 
@@ -28,7 +28,7 @@ The project focuses on cross-market mispricing, maturity matching, implied proba
 
 ---
 
-### Crypto Mispricing Strategy & 60/40 Portfolio Integration
+### [Crypto Mispricing Strategy & 60/40 Portfolio Integration](https://github.com/giannandreadestefano/crypto-mispricing-portfolio)
 
 Research project testing whether a systematic long-short cryptocurrency strategy can enhance a traditional 60/40 equity-bond portfolio.
 
