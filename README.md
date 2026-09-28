@@ -7,16 +7,6 @@ I build empirical finance projects in Python and MATLAB, with applications to pr
 
 ## Selected Research Projects
 
-### [Quant Risk Lab — Multi-Asset Market Risk Engine](https://github.com/giannandreadestefano/quant-risk-lab)
-
-Python-based market risk engine covering equities, Treasuries, credit, gold and crypto.
-
-The project includes portfolio construction, volatility forecasting, VaR and Expected Shortfall estimation, stress testing, risk model backtesting and regime-aware risk monitoring. The objective is to evaluate how standard market risk models behave across normal and stressed market conditions.
-
-**Tools & methods:** Python, yfinance, pandas, GARCH, VaR/Expected Shortfall, stress testing, risk model backtesting, Streamlit.
-
----
-
 ### [Cross-Market Mispricing in Bitcoin Prediction Markets](https://github.com/giannandreadestefano/btc-prediction-market-efficiency)
 
 MSc thesis project investigating BTC prediction-market efficiency by comparing Polymarket and Kalshi event probabilities with derivatives-implied benchmarks from Deribit.
@@ -24,6 +14,16 @@ MSc thesis project investigating BTC prediction-market efficiency by comparing P
 The project focuses on cross-market mispricing, maturity matching, implied probability calibration and predictive regressions.
 
 **Tools & methods:** Python, REST APIs, market data processing, maturity matching, mispricing measurement, OLS regressions.
+
+---
+
+### [Quant Risk Lab — Multi-Asset Market Risk Engine](https://github.com/giannandreadestefano/quant-risk-lab)
+
+Python-based market risk engine covering equities, Treasuries, credit, gold and crypto.
+
+The project includes portfolio construction, volatility forecasting, VaR and Expected Shortfall estimation, stress testing, risk model backtesting and regime-aware risk monitoring. The objective is to evaluate how standard market risk models behave across normal and stressed market conditions.
+
+**Tools & methods:** Python, yfinance, pandas, GARCH, VaR/Expected Shortfall, stress testing, risk model backtesting, Streamlit.
 
 ---
 
