@@ -27,7 +27,7 @@ The project includes portfolio construction, volatility forecasting, VaR and Exp
 
 ---
 
-### [Crypto Mispricing Strategy & 60/40 Portfolio Integration](https://github.com/giannandreadestefano/crypto-mispricing-portfolio)
+### [Crypto Mispricing and Portfolio Diversification](https://github.com/giannandreadestefano/crypto-mispricing-portfolio)
 
 Research project testing whether a systematic long-short cryptocurrency strategy can enhance a traditional 60/40 equity-bond portfolio.
 
