@@ -9,11 +9,11 @@ I build empirical finance projects in Python and MATLAB, with applications to pr
 
 ### [Cross-Market Mispricing in Bitcoin Prediction Markets](https://github.com/giannandreadestefano/btc-prediction-market-efficiency)
 
-MSc thesis project investigating BTC prediction-market efficiency by comparing Polymarket and Kalshi event probabilities with derivatives-implied benchmarks from Deribit.
+MSc thesis comparing Bitcoin prediction-market probabilities on Polymarket and Kalshi with a DVOL-based Deribit benchmark.
 
-The project focuses on cross-market mispricing, maturity matching, implied probability calibration and predictive regressions.
+The empirical pipeline covers API-based data collection, contract parsing and classification, timestamp and maturity matching, benchmark construction, bootstrap inference, OLS regressions with robust and clustered standard errors, and monthly and horizon-based robustness checks.
 
-**Tools & methods:** Python, REST APIs, market data processing, maturity matching, mispricing measurement, OLS regressions.
+**Tools & methods:** Python, REST APIs, pandas, market data processing, Black-Scholes-style probability benchmark, bootstrap inference, OLS regressions, clustered standard errors.
 
 ---
 
