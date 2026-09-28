@@ -62,10 +62,10 @@ Bloomberg Terminal, Aladdin, Quantalys, Refinitiv, yfinance, REST APIs
 
 ## Current Focus
 
-* Building applied finance projects in Python and MATLAB
-* Studying prediction-market efficiency and derivatives-implied probabilities
+* Building applied quantitative finance projects in Python and MATLAB
+* Researching cross-market pricing and derivatives-implied probabilities
 * Developing portfolio analytics and market risk tools
-* Preparing for roles in market risk, portfolio analytics, asset management and quantitative finance
+* Preparing for roles in market risk, quantitative finance, portfolio analytics and asset management
 
 ---
 
