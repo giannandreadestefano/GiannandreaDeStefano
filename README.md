@@ -23,8 +23,7 @@ Python-based market risk engine covering equities, Treasuries, credit, gold and 
 
 The project includes portfolio construction, volatility forecasting, VaR and Expected Shortfall estimation, stress testing, risk model backtesting and regime-aware risk monitoring. The objective is to evaluate how standard market risk models behave across normal and stressed market conditions.
 
-**Tools & methods:** Python, yfinance, pandas, GARCH, VaR/Expected Shortfall, stress testing, risk model backtesting, Streamlit.
-
+**Tools & methods:** Python, pandas, NumPy, SciPy, statsmodels, GARCH, VaR/Expected Shortfall, stress testing, risk attribution, risk model backtesting.
 ---
 
 ### [Crypto Mispricing Strategy & 60/40 Portfolio Integration](https://github.com/giannandreadestefano/crypto-mispricing-portfolio)
