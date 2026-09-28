@@ -1,8 +1,7 @@
 # Giannandrea De Stefano
 
-MSc Economics and Finance candidate at LUISS Guido Carli, focused on asset pricing, portfolio analytics, market risk modelling and financial data analysis.
-
-I am interested in the intersection between financial markets, econometrics and data-driven investment research, with applied work on portfolio construction, crypto asset pricing, prediction markets and multi-asset risk management.
+MSc Economics & Finance candidate at LUISS Guido Carli, focused on quantitative finance, market risk, asset pricing and portfolio analytics.
+I build empirical finance projects in Python and MATLAB, with applications to prediction markets, derivatives-implied probabilities and multi-asset risk management.
 
 ---
 
