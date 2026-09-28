@@ -18,7 +18,7 @@ The project includes portfolio construction, volatility forecasting, VaR and Exp
 
 ---
 
-### [Pricing Efficiency in Binary Prediction Markets](https://github.com/giannandreadestefano/btc-prediction-market-efficiency)
+### [Cross-Market Mispricing in Bitcoin Prediction Markets](https://github.com/giannandreadestefano/btc-prediction-market-efficiency)
 
 MSc thesis project investigating BTC prediction-market efficiency by comparing Polymarket and Kalshi event probabilities with derivatives-implied benchmarks from Deribit.
 
